@@ -1,0 +1,129 @@
+.header{
+  background-color: rgb(102, 240, 194);
+  margin: 0%;
+  padding: 3%
+}
+
+.topBox{
+  border: 2px dotted black;
+  margin-top: 0px;
+  padding: 110px;
+}
+
+.purpleBox{
+background-color: purple;
+border: 5px solid;
+border-color: red;
+border-width: 3px;
+height: 50px;
+width: 100px;
+padding: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+ float: left;
+}
+
+.blueBox{
+  background-color: blue;
+  border: solid 1px black;
+  border-color: 1px;
+  height: 50px;
+  width: 50px;
+  box-shadow: 3px 3px 3px black;
+  margin-bottom: 10px;
+ margin-left: 20px;
+ float: left;
+}
+
+.pinkBox{
+  float: left;
+  height: 100px;
+  width: 100px;
+  background-color: pink;
+  border: solid 1px black;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+
+.middleBox{
+  border: 2px dotted black;
+  margin-bottom: 10px;
+  padding: 10px;
+
+ } 
+
+
+
+.topCircle{
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  margin-left: 14px;
+}
+
+
+
+.midCircle{
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  margin-left: 10px;
+}
+
+.bottomCircle{
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  margin-left: 1px;
+
+}
+
+.bottomBox{
+  margin-bottom: 10px;
+  border: 2px dotted black;
+  padding: 10px;
+}
+
+.bigBox{
+  border: 2px solid black;
+  background-color: antiquewhite;
+  height: 200px;
+  width: 200px;
+  
+
+  }
+  .bigCircle{
+    border-radius: 50%;
+    border: 1px solid black;
+    background-color: green;
+    height: 160px;
+    width: 160px;
+  }
+    
+  .smallBox{
+    background-color: darkred;
+    height: 100px;
+    width: 100px;
+    margin: 15%;
+      }
+      .boxText{
+        color: white;
+        text-align: middle;
+        float: bottom;
+      }
+
+      .smallCircle{
+        border-radius: 50%;
+        background-color: blue;
+        height: 80px;
+        width: 80px;
+        margin: 1%;
+      }
+
+
+
+
+
